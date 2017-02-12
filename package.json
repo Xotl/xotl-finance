@@ -1,0 +1,24 @@
+{
+  "name": "xotl-finance",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xotl/xotl-finance.git"
+  },
+  "author": "Edgardo Campos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xotl/xotl-finance/issues"
+  },
+  "homepage": "https://github.com/Xotl/xotl-finance#readme",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^16.1.0",
+    "xml2js": "^0.4.17"
+  }
+}
