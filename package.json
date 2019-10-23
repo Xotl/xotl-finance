@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Xotl/xotl-finance#readme",
   "dependencies": {
-    "google-auth-library": "^0.10.0",
+    "google-auth-library": "^5.5.1",
     "googleapis": "^16.1.0",
     "xml2js": "^0.4.17"
   }
